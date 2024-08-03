@@ -1,6 +1,6 @@
 # Week 2-Client Meeting
 **Info:**
--  [Original Meeting document.pdf]()
+-  [Original Meeting document.pdf](Origin/2024-7-31_ClientMeeting.md)
 - Time: 31/07/2024
 - Location: Online
 - Scribe: Client/Yujing
