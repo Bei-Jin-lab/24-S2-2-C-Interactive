@@ -1,7 +1,7 @@
 # Week 2 -Tutor Meeting 
 **Info:**
-- Time: [Specific Date], [Start Time]-[End Time]
-- Location: [Specify Online or Physical Location]
+- Time: 2 Aug, 10:00-11:00am
+- Location: Ian Ross R221
 - Scribe: Andy
 - Describe: Discussion on project management, landing page development, and preparation for future presentations.
 
