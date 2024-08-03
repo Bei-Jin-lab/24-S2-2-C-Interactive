@@ -1,4 +1,4 @@
-# Week1 -Team Meeting
+# Week2 -Team Meeting
 **Info:**
 - Time: 2 Aug, 11:30am-12:30pm
 - Location: Hanna
