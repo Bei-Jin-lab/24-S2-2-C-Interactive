@@ -23,7 +23,7 @@ Through self-study in the second week, team meetings, and client communication, 
 7. Collaboration with the Shadow Team
    I believe our shadow team is a good communication partner. Both teams can regularly communicate, supervise each other, and make mutual improvements. Through this collaboration, we can make progress together and improve the quality of the project.
 
- Summary of This Week's Work
+ # Summary of This Week's Work
 
 This week, our team completed the following tasks:
 
@@ -39,7 +39,7 @@ This week, our team completed the following tasks:
 10. Completed the project task allocation.
 11. Confirmed the types of tools to be used in the project.
 
- Tasks for Next Week
+#  Tasks for Next Week
 
 1. Prepare for the audit review.
 2. Investigate the needs of CBE College teachers and students.
