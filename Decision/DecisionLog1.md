@@ -9,6 +9,7 @@
 ## Decision detail
 
 1.How to finish the SOW, landing page, and the logging
+
 2.Initial assignment for the whole project：
   Pm: Bei Jin
   Front-end: BeiJin, Bingkun Li, Jinsong Xin
