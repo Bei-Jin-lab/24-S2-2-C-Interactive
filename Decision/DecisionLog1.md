@@ -11,10 +11,15 @@
 1.How to finish the SOW, landing page, and the logging
 
 2.Initial assignment for the whole project：
+  
   Pm: Bei Jin
+  
   Front-end: BeiJin, Bingkun Li, Jinsong Xin
+  
   Back-end: YuJing Zhang, Yiou Liu, Yunru Chen
+  
   Ai chatbox: YuJing Zhang, JingHan Gao (each person needs to learn some, and try)
+  
 Optional Language
   Front-end: Ract (use vue bootsarp, jquery, ajax as appropriate)
   Back-end: Firebase (use php+mysql as appropriate)
