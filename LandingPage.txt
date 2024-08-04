@@ -1,0 +1,16 @@
+The url of Landingpage:
+
+24s2c2interactive.wordpress.com
+
+Project Access Instructions
+
+We have noticed that when entering our landing page URL in Google Forms, some issues may arise. If you encounter a situation where WordPress requires you to log in, please note that not everyone has a WordPress account. In this case, you can use the alternative link provided in our Google Form:
+
+[https://github.com/24-S2-2-C-Interactive/Interactive](https://github.com/24-S2-2-C-Interactive/Interactive)
+
+Through this alternative link, you can directly access our project's GitHub page. All the information available on the landing page can also be found on GitHub.
+
+You can also try copying the landing page URL again:
+[24s2c2interactive.wordpress.com](https://24s2c2interactive.wordpress.com)
+
+Thank you for your understanding and cooperation.
