@@ -1,4 +1,4 @@
-# Week 2-Client Meeting
+# Week 3-Client Meeting
 **Info:**
 - Time: 05/08/2024
 - Location: Online
