@@ -1,9 +1,9 @@
 # Week 3-Client Meeting
 **Info:**
-- Time: 05/08/2024
+- Time: 12/08/2024
 - Location: Online
-- Scribe: BeiJin
-- Describe: Techlauncher meeting with clients to discuss project phases, the development of a staff-oriented website, and an AI chatbot. Review of existing resources and discussion of technical requirements.
+- Scribe: Bei Jin
+- Describe: Discuss the pros and cons of different ways to create a website (sharepoint, wordpress, basic html), and which one is better to choose given that ANU provides a free domain name
 
 **Attendees:**
 - Henry: Education Support Officer in CBE
@@ -19,25 +19,24 @@
 ## Agenda Items
 |Number          | Item                                               |
 |:---------------|:---------------------------------------------------|
-|Agenda Item 1   | main task for first semester                  |
-|Agenda Item 2   | analyze the existing website(pros and cons) how to improve|
-|Agenda Item 3   | consider risk part，how to prevent                |
-|Agenda Item 4   | options of platform，which one is best for our case         |
-|Agenda Item 5   | domain name can be free?  Ask via CBE email.            |
-|Agenda Item 6   | requirement for back-end and front-end         |
+|Agenda Item 1   | introduce different ways to create a website              |
+|Agenda Item 2   | analyze pros and cons of different ways|
+|Agenda Item 3   | How to contact with ANU IT to access the permission of domain    |
+|Agenda Item 4   | the basic need of back-end      |
+
 
 ## Discussion Items
 | Item                           |Who            |Notes                                       |
 |--------------------------------|---------------|--------------------------------------------|
-| requirement for back-end and front-end   |Henry           ||Users can post content by themselves, no comments are needed,
-| User       |Henry           |This website is mainly for anu staffs.|
-| Maintain and develop |Henry           |should be friendly to newbies.|
+| Different ways to ceate website |Henry     ||Why do we want to use wordpress, is there any risks for this method|
+| permission of domain      |Henry           |Try to contact with ANU IT support, and test if it worked when we use Henry's account|
+|  back-end  |Henry           |the function of login and regsiter, if users can check their own history, it will be better|
 
-##Action Items
+
 
 ## Action Items
 |Task                           | Assigned To |Due Date             |
 |:------------------------------|:-----------:|:-------------------:|
-|Is it possible to access ANU's resource library?|    Team     |09/08/2024           |
-|Is it possible for ANU to provide domain names for free?   |    Team     |09/08/2024           |
-|analyze existing website   |    Team     |12/08/2024           |
+|Decide to which methods we will use |    Team     |15/08/2024           |
+|Create a basic website in wordpress for test  |    Team     |17/08/2024           |
+|make sure if ANU will provide a free domain or permission to use it  |    Team     |15/08/2024           |
