@@ -10,17 +10,18 @@
 - Person B
 
 ## Agenda Items
-| Number        |        Item |
-|:--------------|------------:|
-| Agenda Item 1 | • <br>• <br>• <br>• <br>• |
-| [number]      | [item name] |
-| [number]      | [item name] |
-| [number]      | [item name] |
+| Number                                                           |        Item |
+|:-----------------------------------------------------------------|------------:|
+| Agenda Item 1 - What was done last week (with log)/ Any problems | • <br>• <br>• <br>• <br>• |
+| [number]                                                         | [item name] |
+| [number]                                                         | [item name] |
+| [number]                                                         | [item name] |
 
 ## Meeting minutes
 Stand up Procedure:
+Agenda-1:
 - {e.g. Each team member briefly shares their progress and any roadblocks.}
-## Discussion Items
+## Discussion Items( or delete)
 | Item  | Classify                               | Notes |
 |-------|----------------------------------------| ---- |
 |  item | communication/Tech/Stakeholder/Product | notes |
