@@ -60,7 +60,7 @@ Stand up Procedure:
     - Meeting: to send agenda before meeting taking notes during the meeting to improve efficiencyto improve the effectiveness.
     - Client: provide a prototype for discussion. Allocated to Jingson Xin.
 ## Action Items
-(see project task lop)
+(see project task log)
 
 ## Next Week
 
