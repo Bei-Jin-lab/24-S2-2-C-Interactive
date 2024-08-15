@@ -1,4 +1,4 @@
- 1. Traditional HTML/CSS/JavaScript Development
+# 1. Traditional HTML/CSS/JavaScript Development
 - Ease of Maintenance:
  High difficulty. It requires a deep understanding of the code. Non-technical users may find it hard to maintain, and ongoing technical support might be needed.
 - CBE Experience: 
