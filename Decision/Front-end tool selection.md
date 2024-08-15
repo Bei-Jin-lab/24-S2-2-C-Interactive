@@ -12,7 +12,7 @@ High. Developing and maintaining the site can be costly, as you might need to hi
 - Exporting and Future Development:
  All code is hand-written, so it can be fully exported and modified later, but future changes will be costly and require strong technical skills.
 
- #2. Using GitHub Pages and Jekyll
+ # 2. Using GitHub Pages and Jekyll
 - Ease of Maintenance:
  Moderate. Jekyll is relatively simple but still requires some technical background to maintain and update. Its static nature may limit future expansion.
 - CBE Experience:
@@ -26,7 +26,7 @@ High. Developing and maintaining the site can be costly, as you might need to hi
 - Exporting and Future Development:
  Jekyll generates static HTML files, which can be exported and directly modified, but it lacks the flexibility of dynamic sites.
 
- #3. Using WordPress
+ # 3. Using WordPress
 - Ease of Maintenance:
  Very easy. WordPress has an intuitive admin interface, allowing non-technical users to easily maintain the site. CBE already has experience with WordPress, making it even easier to get started.
 - CBE Experience:
@@ -39,7 +39,7 @@ High. Developing and maintaining the site can be costly, as you might need to hi
 Very smooth. WordPress comes with built-in database support, and the plugin ecosystem makes database operations easier. It also supports remote MySQL databases.
 - Exporting and Future Development:
  WordPress code can be exported and further modified, but it’s more complex than hand-coded sites. You’ll need to understand WordPress’s internal structure to make changes.
-#4. Using SharePoint
+# 4. Using SharePoint
 - Ease of Maintenance:
   Very easy. SharePoint is designed for non-technical users and offers a highly intuitive interface, making content management and updates straightforward. It integrates well with Microsoft Office tools, making it convenient for users already familiar with these platforms.
 - CBE Experience:
@@ -52,7 +52,7 @@ Low. No coding is required; users can build websites by dragging and dropping co
   Very smooth. SharePoint offers robust built-in database support and can seamlessly integrate with other Microsoft services like SQL Server. It also supports remote data access and complex workflow management.
 - Exporting and Future Development:
   Some complexity involved. While SharePoint allows for exporting and modification, it relies on Microsoft's architecture and services, so custom development might require specialized knowledge. Future changes typically need an understanding of SharePoint's structure and workings.
-#Conclusion
+# Conclusion
 After comparing the four development methods, WordPress emerges as the preferred choice for website building due to its clear advantages:
 
 1. Ease of Maintenance:  
@@ -70,5 +70,5 @@ After comparing the four development methods, WordPress emerges as the preferred
 5. Integration with Backend Databases:
    WordPress excels in database integration, offering built-in support and a plugin ecosystem that simplifies database operations. Traditional methods have a complexity that depends on the developer's skills, while Jekyll is not suited for dynamic content integration. SharePoint integrates smoothly but is limited to Microsoft's ecosystem.
 
-#Preference:
+# Preference:
 Overall, WordPress is easier to maintain and offers a higher level of aesthetics, making it the best choice. Traditional development methods, while flexible, are complex and hard to maintain; GitHub Pages and Jekyll are suitable for static sites but lack dynamic functionality, and while SharePoint is easy to maintain, it is less aesthetically pleasing. Therefore, WordPress is the optimal choice to meet CBE's needs.
