@@ -1,6 +1,7 @@
 # DECISION LOG 
 ## Decision Details 
 - Date: 02/08/24
+- Author: Bei Jin
 - Decision Maker: Team made
   
 ## Background 
