@@ -28,6 +28,7 @@ Optional technologies
 After comparing, we decided to choose react to realize front-end. the reason as following shows:
 
 1.Security Issues
+
 Since WordPress is the most popular content management system (CMS) in the world, it has become a prime target for hackers. Its large plugin ecosystem increases the attack surface, and each plugin may introduce potential security vulnerabilities.
 React is a front-end library that does not contain back-end logic or databases, so its attack surface is relatively small. If paired with a secure back-end service, React applications are generally less likely to become targets.
 WordPress core and plugins are updated frequently, but many websites fail to update in time, resulting in known vulnerabilities not being fixed.
@@ -36,10 +37,12 @@ Since WordPress is based on PHP and MySQL, SQL injection attacks are a common se
 React does not directly handle database interactions, so there is no direct SQL injection risk.
 
 2.Real-time data, data processing, complex API integration
+
 Since this project requires the creation of an embedded AI-chatbox, this involves a lot of data processing. Although WordPress provides a REST API, it may encounter performance bottlenecks for complex data processing scenarios. On the other hand, WordPress does not support WebSocket, which makes it difficult to handle real-time communications such as live chat, notifications, real-time updates, etc.
 
 
 3.Complex permission management and role control
+
 Because our project needs to create different management permissions according to different roles.
 
 Visitors: view pages, use chatbox
