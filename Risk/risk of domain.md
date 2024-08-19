@@ -59,5 +59,4 @@ For very complex role control and permission management (such as dynamic permiss
 After deciding on the technology to be implemented, we need to start developing the front end of the website. We divide the tasks for each page that needs to be created and prioritize them based on importance.
 
 ## Conclusion 
-
-Finally, we chose react to implement the front end of the web page. Because it can be connected with the back end, improve the security of the website. It can also realize the setting and management of AI-chatbox and permissions.
+1
