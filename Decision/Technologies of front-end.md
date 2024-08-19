@@ -35,7 +35,7 @@ React itself has a relatively stable update rhythm and good backward compatibili
 Since WordPress is based on PHP and MySQL, SQL injection attacks are a common security threat. Third-party plugins and custom code may introduce SQL injection vulnerabilities.
 React does not directly handle database interactions, so there is no direct SQL injection risk.
 
-2. Real-time data, data processing, complex API integration
+2.Real-time data, data processing, complex API integration
 Since this project requires the creation of an embedded AI-chatbox, this involves a lot of data processing. Although WordPress provides a REST API, it may encounter performance bottlenecks for complex data processing scenarios. On the other hand, WordPress does not support WebSocket, which makes it difficult to handle real-time communications such as live chat, notifications, real-time updates, etc.
 
 
