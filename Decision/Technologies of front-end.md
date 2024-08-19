@@ -1,6 +1,7 @@
 # DECISION LOG 
 ## Decision Details 
 - Date: 18/08/24
+- Author: Bei Jin
 - Decision Maker: front-end team made
   
 ## Background 
