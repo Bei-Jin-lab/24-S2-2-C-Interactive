@@ -1,4 +1,4 @@
-# DECISION LOG 
+# Risk LOG 
 ## Decision Details 
 - Date: 18/08/24
 - Author: Bei Jin
