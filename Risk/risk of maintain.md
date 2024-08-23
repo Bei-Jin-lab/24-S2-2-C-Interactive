@@ -1,4 +1,4 @@
-# DECISION LOG 
+# Risk LOG 
 ## Decision Details 
 - Date: 19/08/24
 - Decision Maker: front-end team made
