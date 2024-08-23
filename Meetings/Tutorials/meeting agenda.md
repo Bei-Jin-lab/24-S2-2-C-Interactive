@@ -1,7 +1,8 @@
 ## Agenda Items
 |Number          |Item                                               |
 |:---------------|:--------------------------------------------------|
-|Item 1   |Review landing page, management documents for consistency and structure|
-|Item 2   |Break client demands into basic functions, UX enhancements, and extensibility|
-|Item 3   |Set deadlines for landing page and documentation deliverables|
-|Item 4   |Prepare for elevator pitch every week (45-60 sec) highlighting problem, solution, and unique points|
+|Item 1   |Review the week5meeting.md |
+|Item 2   |Review the tasklog|
+|Item 3   |Review the reflective|
+|Item 4   |Review the other part|
+|Item 5   |Question about convener's e-mail|
