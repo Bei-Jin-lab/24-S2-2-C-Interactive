@@ -1,4 +1,4 @@
-### Weekly Reflection
+# Project Reflection Week 4
 
 **Landing Page**
 This week, our team made significant progress on the landing page. We discussed its functionality and design, ensuring that users are directed straight to the content. A critical decision was made regarding the structure and presentation of the landing page, although we would have appreciated more clarity on who initially raised the idea, the specific domain it addresses, and any changes made throughout the process. Tracking these decisions more meticulously could help us in reflecting on our design choices and understanding the evolution of our project better.
