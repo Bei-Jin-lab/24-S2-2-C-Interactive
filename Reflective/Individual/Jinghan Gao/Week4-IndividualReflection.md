@@ -2,7 +2,12 @@
 **Name**:  Jinghan Gao
 
 ### 1. What have been done? What challenges and how did I solve them?
+In week 4, I concentrated on text-based tasks, particularly in improving our meeting efficiency and log organization. Following the template provided by Yujing Zhang, I use the meeting agenda provided by Bingkun Li in advance, allowing me to focus on taking necessary notes during the meeting. This approach streamlined the process, enabling me to finalize the meeting minutes promptly after the meeting. Additionally, I collaborated with Yujing Zhang to discuss the categorization of logs (risk, reflection, task, decision, and meeting) and agreed on a suitable structure and titles for each. Drawing from my knowledge in agile development (gained from the COMP3120-Managing Software Development), I introduced key agile concepts during our group meeting, helping the team align on a systematic approach for our project. To enhance understanding, I also watched Yujing provided tutorial video on agile development. Following these discussions, I revised all log titles, ensuring a more organized and strategic approach to our documentation.
 
+Furthermore, I explored WordPress plugins for integrating a chatbot, given that our frontend development will be done using WordPress. I discovered that most internal plugins offer limited capabilities for model fine-tuning. Notably, the WP bot plugin offers additional training options(use link), but only in the Pro+ version, which requires a purchase.
 
 
 ### 2. Reflection: What did I learn or improve?
+This week, I learned the value of structured preparation in both meetings and documentation. By using a predefined agenda and note-taking strategy, I was able to efficiently manage meeting minutes, resulting in more accurate and timely documentation. My collaboration with Yujing Zhang also strengthed the importance of clearly defined log categories and consistent naming conventions, which will greatly benefit our team’s workflow. Additionally, sharing me and Yujing's knowledge  of agile development helped solidify the team’s understanding, allowing us to move forward more cohesively.
+
+Through my research on WordPress chatbot plugins, I gained insight into the platform’s limitations in terms of AI training. This will be a critical factor to consider as we continue exploring technical solutions for the project. Overall, this week emphasized the importance of clear communication, strategic planning, and thorough research.
