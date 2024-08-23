@@ -1,4 +1,4 @@
-# Week3 IndividualReflection 
+# Week4 IndividualReflection 
 **Name**:  Yujing Zhang
 
 
@@ -9,5 +9,6 @@
 - I discussed with Jinghan about our project log and the dimensions we should track. We need to link meeting minutes and related documents to the log.
 - On the technical side, I researched WordPress and identified potential risks of using a low-code platform.
 - I analyzed client’s requirements and write a features document to help us discuss and finalize development tasks and prototype.
+- I found a good Agile video tutorial and shared it on Teams to help us better understand the process. 
 ### 2. Reflection: What did I learn or improve?
 Reflecting on this week, I learned the importance of proactively improving our processes. By gathering feedback from stakeholders and team members, I was able to enhance our communication flow and document management. This proactive approach allowed us to identify and solve issues quickly, which I believe significantly boosted our team’s efficiency and collaboration. Additionally, by applying the knowledge from the 6120 course on development processes, I was able to practically implement what I’ve learned about Agile like from the user stories to generate features. This experience has given me a deeper understanding of how these concepts work in real-world scenarios.
