@@ -2,6 +2,7 @@
 ## Decision Details 
 - Date: 19/08/24
 - Decision Maker: front-end team made
+- Author: Bei Jin
   
 ## Background 
 Since some functions cannot be implemented with WordPress, we decided to use basic code HTML or React. Based on the customer's concerns about the maintenance of HTML, that is, it cannot be easily maintained by programming novices.
