@@ -4,7 +4,7 @@
 
 ---
 
-* At least 50 words
+*  100-200 words
 * Can use bullet points or write a summary (answer belows question)
 
 ### 1. What have been done? What challenges and how did I solve them?
