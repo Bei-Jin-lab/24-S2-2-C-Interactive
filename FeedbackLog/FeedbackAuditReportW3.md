@@ -25,7 +25,7 @@ Feedback collection for task allocation.
 
 - Your decision log is not up to scratch. This needs to be a spreadsheet with decision name, decision description, date, actions etc. Right now you aren’t capturing decisions properly and this must change immediately.
 
-- Your task tracking (via issues) is barely existent. When tasks are done there is often no commenting or description on what was done. There should be dozens of tasks on a typical project and you guys have like 5. You need granular task definition with good quality descriptions. Right now the overwhelming impression your task tracking gives is that you guys aren’t sure how to start and you’re kind of dusting around the edges of that.
+- Your task tracking (via issues) is barely existent. When tasks are done there is often no commenting or description on what was done. There should be dozens of tasks on a typical project and you guys have like 5. You need granular task definition with good quality descriptions. Right now the overwhelming impression your task tracking gives is that you guys aren’t sure how to start and you’re kind of dusting around the edges of that.
 
 - I like that you have a team page, but there’s nothing there about who the team members are or what their skills/specialisations are. This needs content. You should have clear definition of roles as well, which I can’t seem to see.
 
@@ -42,4 +42,4 @@ Feedback collection for task allocation.
 ---
 ### Conclusion/Next Steps
 
-- Agree with all and we will have a group meeting and allocate relative tasks.
+- Agree with all. And we will have a group meeting and allocate relative tasks.
