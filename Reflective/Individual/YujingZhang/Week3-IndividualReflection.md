@@ -5,7 +5,8 @@
 ---
 
 ### 1. What have been done? What challenges and how did I solve them?
-This week, I was responsible for communicating with stakeholders about tech risks, and I’ve received clear responses. Further discussion is needed within the group. The risks involve domain and permission issues, which require approval from ANU IT. Since the client is not familiar with the application process with ITS, our group will handle contacting ANU IT. The main challenge we faced was that no one knew how to address the third-party technical support involved in this project.To tackle this, I went to ITS and talked with staff there andI sent emails to the relevant stakeholders asking for advice. Their feedback was very helpful and had a significant impact on our subsequent evaluation of development methods, providing support for our actions.
-
+- I had discussions about the tech stack in the backend and the documentation process with the team.
+- I scribed the meetings with the team, tutor, and client, ensuring all key points were captured.
+- I created a meeting template to streamline future meetings and improve documentation efficiency.
 ### 2. Reflection: What did I learn or improve?
-I realized that when facing problems, it's important to reach out not only to direct stakeholders but also to all related stakeholders who might provide constructive feedback. For instance, in our communication with ITS, we learned from the TUTOR that similar situations have occurred in previous years, and the convenor also gave us suggestions for implementing the project. I believe this attempt to communicate with different people greatly benefited our decision-making process.
+Through these activities, I learned the importance of clear communication and well-organized documentation in ensuring everyone is on the same page. Creating the meeting template helped standardize our process, making it easier to follow and maintain in future meetings. This experience also reinforced the value of detailed note-taking during discussions to prevent misunderstandings and ensure all actions are properly tracked.
