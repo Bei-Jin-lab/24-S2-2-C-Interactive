@@ -13,6 +13,6 @@
 
 ### 2. Reflection: What did I learn or improve?
 
--I learned that using WordPress may cause security issues. Since WordPress is the most popular content management system (CMS) in the world, it has become a prime target for hackers.
--At the same time, it is difficult for WordPress to achieve real-time data processing and complex API integration. Since this project requires the creation of an embedded AI chat box, it involves a lot of data processing.
--On the other hand, react can achieve complex permission management and role control. Because our project needs to create different management permissions according to different roles.
+- I learned that using WordPress may cause security issues. Since WordPress is the most popular content management system (CMS) in the world, it has become a prime target for hackers.
+- At the same time, it is difficult for WordPress to achieve real-time data processing and complex API integration. Since this project requires the creation of an embedded AI chat box, it involves a lot of data processing.
+- On the other hand, react can achieve complex permission management and role control. Because our project needs to create different management permissions according to different roles.
