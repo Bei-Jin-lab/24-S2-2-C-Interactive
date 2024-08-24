@@ -6,15 +6,15 @@
 - Describe: Discuss the pros and cons of different ways to create a website (sharepoint, wordpress, basic html), and which one is better to choose given that ANU provides a free domain name
 
 **Attendees:**
-- Henry: Education Support Officer in CBE
-- Jinsong: Master of Computing
-- Bingkun: Master of Computing specializing in Professional Computing
-- Jinghan: Master of Machine Learning and Computer Vision, Bachelor specialization in AI
-- Yujing: Computing student specializing in Professional Computing
-- Yunru: Master of Computing specializing in Professional Computing
-- Bei: Master of Computing
-- Yiou: Master of Computing specializing in Professional Computing or Machine Learning
-
+- Henry: Client
+- Dale: Client
+- Jinsong Xin
+- Bei Jin
+- Yujing Zhang
+- Bingkun Li
+- Yiou Liu
+- Yunru Chen
+- Jinghan Gao
 
 ## Agenda Items
 |Number          | Item                                               |

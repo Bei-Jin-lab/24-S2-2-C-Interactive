@@ -6,15 +6,15 @@
 - Describe: Techlauncher meeting with clients to discuss project phases, the development of a staff-oriented website, and an AI chatbot. Review of existing resources and discussion of technical requirements.
 
 **Attendees:**
-- Henry: Education Support Officer in CBE
-- Jinsong: Master of Computing
-- Bingkun: Master of Computing specializing in Professional Computing
-- Jinghan: Master of Machine Learning and Computer Vision, Bachelor specialization in AI
-- Yujing: Computing student specializing in Professional Computing
-- Yunru: Master of Computing specializing in Professional Computing
-- Bei: Master of Computing
-- Yiou: Master of Computing specializing in Professional Computing or Machine Learning
-
+- Henry: Client
+- Dale: Client
+- Jinsong Xin
+- Bei Jin
+- Yujing Zhang
+- Bingkun Li
+- Yiou Liu
+- Yunru Chen
+- Jinghan Gao
 
 ## Agenda Items
 |Number          | Item                                               |

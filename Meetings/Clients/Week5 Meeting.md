@@ -7,16 +7,16 @@
 - Describe: Regular meeting
 
 **Attendees:**
-- Henry: Education Support Officer in CBE
-- Dale: Education Support Officer in CBE
+- Henry: Client
+- Dale: Client
 - Andy: Tutor
-- Jinsong: Master of Computing
-- Bingkun: Master of Computing specializing in Professional Computing
-- Jinghan: Master of Machine Learning and Computer Vision, Bachelor specialization in AI
-- Yujing: Computing student specializing in Professional Computing
-- Yunru: Master of Computing specializing in Professional Computing
-- Bei: Master of Computing
-- Yiou: Master of Computing specializing in Professional Computing or Machine Learning
+- Jinsong Xin
+- Bei Jin
+- Yujing Zhang
+- Bingkun Li
+- Yiou Liu
+- Yunru Chen
+- Jinghan Gao
 
 ## Agenda Items
 | Number    |        Item                                |
