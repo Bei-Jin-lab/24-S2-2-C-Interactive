@@ -7,7 +7,6 @@
 
 
 ### 1. What have been done? What challenges and how did I solve them?
-*Describe what tasks, processes, or what went smoothly.*
 
 - This week, I analyzed the advantages and disadvantages of the case website given to us by the tutor. I studied how to avoid these disadvantages for the website we want 
 to build, and how to improve the performance of the website. I analyzed some risks that may be faced and the harmfulness of these risks. 
