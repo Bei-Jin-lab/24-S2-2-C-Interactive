@@ -3,6 +3,7 @@
 - Time: 16 Aug, 10:00-11:30am
 - Location: Ian Ross R221
 - Scribe: Andy
+- Minutes taker: Jinghan Gao
 - Describe: Discussion of issues with the landing page, feedback from the audit 1. Team members ask questions to tutor and get the answers.
 
 **Attendees:**
