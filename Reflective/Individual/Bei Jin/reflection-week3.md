@@ -12,6 +12,8 @@
 to build, and how to improve the performance of the website. I analyzed some risks that may be faced and the harmfulness of these risks. 
 
 - Based on the fact that ANU has not yet effectively responded to our domain name application, we have proposed a plan for follow-up work.
+  
+- Shared our project with shadow team, exchanged our though.
 
 ### 2. Reflection: What did I learn or improve?
 
@@ -20,3 +22,4 @@ to build, and how to improve the performance of the website. I analyzed some ris
 - On the other hand, the page created by wordpress is very
   simple and beautiful, but users cannot use some complex operation functions. Customers also reported that the module for adding/deleting permissions disappeared on
   the website created by wordpress.
+- I realized that our login page should be more intuitive, with direct navigation to each log type.
