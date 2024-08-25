@@ -3,7 +3,7 @@
 - Time: 9 Aug, 12:00-13:00
 - Online
 - Scribe: Bei Jin
-- Describe: Discussion of issues with the landing page, feedback from the audit 1. Team members ask questions to tutor and get the answers.
+- Describe: Introduce the project progress of the past two weeks to each other and give some suggestions.
 
 **Attendees:**
 - Bei Jin
@@ -13,47 +13,38 @@
 | Number     | Item                                                               |
 |:----------:|:------------------------------------------------------------------:|
 | Agenda 1   | Introduce our group's work for these 2 weeks  |
-| Agenda 2   | receive some suggestions from shadow team                                                 |
-| Agenda 3   | check the shadow team's work for these 2 weeks|
-| Agenda 4   |  give some suggestions to shadow team                                       |
+| Agenda 2   | Receive some suggestions from shadow team                                                 |
+| Agenda 3   | Check the shadow team's work for these 2 weeks|
+| Agenda 4   |  Give some suggestions to shadow team                                       |
 
 ## Meeting minutes
-Agenda-1: Feedback from our team's Audit 1 and suggestions for improvement
-  - Landing Page Review
-    - The tutor suggested that the landing page should link directly to the content, allowing client, tutor or shadow  to access documents, code, and logs immediately upon clicking the URL.
-    - Improvements are needed in the completeness of the team charter.
-    - The tutor emphasized the importance of detailed meeting records, not just conclusions but also the discussion and rationale behind them.
+Agenda-1: Introduce our group's work for these 2 weeks
+- Introduce our landing page, SOW, and the four logs we created for the project (decision log, meeting log, risk log, reflective log)
+- Work plan for the next two weeks
+ 
 
-  - Statement of Work
-    - The current SOW lacks sufficient detail to enable another project team to continue development without gaps. Need to continue to clarify the details and not just write framework.
 
-  - All logs
-    - There is a problem with the formatting of all the logs and they all need to be changed. Be more comprehensive.
-    - The tutor noted that all logs (including the Decision Log and Risk Log) require revisions to meet the specified standards.
-    - Logs should include who raised the issue, the domain concerned, dates, and any changes in decisions.
+Agenda-2: Receive some suggestions from shadow team 
+- The shadow team reflected their views on the landing page:
+ 1. The layout of some content is not beautiful
+ 2. The classification of log files is not intuitive, which may cause the tutor to not find the corresponding files
+ 3. They expressed interest in AI-chatbox and asked about the use of related technologies
+- The shadow team reflected their views on meetinglog and SOW:
+ 1. Keep records of meetings with clients and tutors.
+ 2. It is also necessary to describe the details of the meetings, which can also reflect the changes in the needs and interests of shareholders.
+- Finish the rest of team charter
 
-Agenda-2: Question session
-  - Reflection Questions
-    - Questions Asked: Should reflections be written by individuals every week, and what should team reflections cover?
-    - Response: Both individual and team reflections are required. Individual reflections should cover what was learned during the week, thoughts on the project, and any inefficiencies encountered. Team reflections should focus on lessons learned, thoughts, and outcomes from achieving small goals within an agile framework.
-
-  - Use of Low-Code Platforms
-    - Questions Asked: Will using low-code platforms like WordPress impact our grades?
-    - Response: No, using low-code platforms will not affect your grades negatively. You are free to use any tools necessary.
-
-  - Meeting with shadow team
-    - Questions Asked: What content should be presented in the meetings with the shadow team?
-    - Response: Treat these meetings as if they are client meetings. Each team should present their code and summarize their weekly progress. After presentations, assist each other in identifying issues and understanding the project. Mutual reviews should be conducted at least every two weeks.
   
-  - Integration with ANU Domain and ANU ID Authentication
-    - Questions Asked: If we are unable to integrate with the ANU domain and use ANU ID authentication, will it impact our grades?
-    - Response: It’s fine if full integration isn’t achieved. The tutor emphasized that perfection isn’t required; instead, making the best judgment and effort in the project is what matters.
 
-Agenda 3: Feedback from shadow team's Audit 1 and suggestions for improvement
-  - SOW: Very detailed, but no propriety, consider the highest priority, minimum viable product.
+Agenda 3: Check the shadow team's work for these 2 weeks
+- Learned about the shadow team's project: researching an app based on an existing webpage, which can control the actions of a toy dog ​​by dragging and dropping code modules. The purpose is to stimulate children's interest in code
+- According to their SOW, milestone, and their overall arrangement, they hope to complete the construction of the basic app framework in the first semester as much as possible.
+  
 
-Agenda 4: Shadow team Question session
-
+Agenda 4: Give some suggestions to shadow team     
+- Landingpage is very well done, and there are many things we can learn from it
+- Many logs are missing (decisionlog, risklog, etc.)
+- The SOW is well done, and there are many detailed descriptions of shareholders. However, the description of the introduction and expected results of this project lacks details
 
 
 
@@ -63,15 +54,12 @@ Agenda 4: Shadow team Question session
 | Landing page                    |  XJS               |   19 Aug   |
 | SOW                             |  LBK CYR LYO GJH   |   19 Aug   |
 | team charter                    |  BJ                |   19 Aug   |
-| all logs                        |  GJH               |   19 Aug   |
-| Product Prototype               |  LBK XJS BJ        |   19 Aug   |
-| UML                             |  ZYJ LYO CYR       |   19 Aug   |
-| Shadow meeting                  |  All members       |   20 Aug   |
+
 
     
 ## Outcome
-- A better landing page with all the suggestions made today.
-- Product Prototype
-- UML
+- landing page needs to be imporved.
+- Complete Team charter
+- Add some details of SOW
 ## Other Notes
 N/A
