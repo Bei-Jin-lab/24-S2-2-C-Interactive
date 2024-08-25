@@ -13,10 +13,10 @@ The team developed a prototype for the website, focusing on critical user interf
 After extensive analysis, the team finalized WordPress as the primary tool for the frontend development of the project. Jinsong Xin updated the tool selection report and created multiple project prototypes, including user settings and content management pages. The decision to use WordPress was made after comparing it with alternatives like SharePoint and considering the project’s aesthetic and functional requirements.
 - Task 3: Meeting Efficiency and Documentation Improvement [Progress: 95%]</Br>
 Jinghan Gao and Yujing Zhang collaborated to improve our meeting efficiency by implementing a structured approach to meeting agendas and note-taking. They revised the meeting template, ensuring that tasks and discussions are well-documented and linked to our project log. This improvement has streamlined our workflow, making it easier to track decisions and actions.
-- Task 4: Backend Security and Integration Planning [Progress: 90%]</Br>
-Yiou Liu explored Spring Boot with a focus on its authentication and security modules. The backend team discussed the possibility of using ANU’s authentication system for the website, preparing for an upcoming discussion with ANU IT to ensure compliance with university standards.
-- Task 5: Risk Management and Agile Process Enhancement [Progress: 95%]</Br>
+- Task 4: Risk Management and Agile Process Enhancement [Progress: 95%]</Br>
 Yujing Zhang addressed technical risks related to the project, particularly those involving third-party support. She communicated with ITS and relevant stakeholders to gather feedback, which has informed our ongoing development strategy. The team also focused on enhancing our agile process, applying concepts from previous coursework to improve project management and adaptability.
+- Task 5: Backend Security and Integration Planning [Progress: 90%]</Br>
+The backend team discussed the possibility of using ANU’s authentication system for the website, preparing for an upcoming discussion with ANU IT to ensure compliance with university standards, and prepare to discuss with client about the priority of website main page developing and login feature. Yiou Liu explored Spring Boot with a focus on its authentication and security modules.
 ---
 
 ## 2. Issues & Help Needed
