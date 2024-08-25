@@ -6,7 +6,6 @@
 ---
 
 ## 1. We Done：
-*Describe the tasks that were completed this week.*
 - Task 1: Website case analysis and performance improvement planning [Progress: 100%] </br>
   Bei Jin and Bingkun Li conducted a thorough analysis of the case website provided by the tutor. They identified both the strengths and weaknesses of the existing site, particularly focusing on user experience and design aesthetics. The team discussed how to avoid the shortcomings of the existing site while improving the performance of the new website we plan to build. This task was essential for laying the groundwork for our project's overall strategy. Bei Jin also analyzed potential risks associated with our website and proposed mitigation strategies.
 - Task 2: Backend and frontend tech stack discussions [Progress: 80%]</br>
@@ -16,7 +15,6 @@
 ---
 
 ## 2. Issues & Help Needed
-**write down the problems**
 - Issue 1: Delay in domain name approval from ANU [Urgency: High] - [Help Needed: Coordination with ANU IT Support]</br>
 The ANU has not yet processed our domain name application, which is delaying the deployment of our website. This issue is critical as it affects our timeline for testing and client feedback. We need to follow up with ANU IT Support to expedite this process.
 - Issue 2: Integration challenges between backend and frontend [Urgency: Medium] - [Help Needed: Technical advice on best practices]</br>
