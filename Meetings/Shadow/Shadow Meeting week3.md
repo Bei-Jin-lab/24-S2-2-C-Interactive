@@ -1,4 +1,4 @@
-# Week 4 -Tutor Meeting 
+# Week 3 -Shadow Meeting 
 **Info:**
 - Time: 9 Aug, 12:00-13:00
 - Online
