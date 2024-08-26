@@ -74,7 +74,7 @@ The homepage design was discussed, with a suggestion to follow the SharePoint la
 
 The main functions of the above projects have been confirmed by the client. However, the functionality of staff is not consistent with our team's vision, and we need to decide whether to revise it or not
 
-### Agenda 5:Summary and Next Steps Planning:<br>
+### Agenda 5:Discussion on AI Chatbot Development <br>
 Henry Zhu discussed his recent research on AI chatbot solutions. He noted that there are mature options available, which likely won’t require custom model training. Instead, the approach would involve leveraging existing large language models and feeding specific data into them. The process is straightforward: after generating a model, it typically provides an HTML code that can be embedded into the website. The main challenges identified are selecting the best product for integration and determining how to effectively input the necessary data into the system. Establishing a relevant database for training is crucial. 
 
 Henry proposed focusing the AI chatbot on assisting with the new online learning platform that will replace the current system after the next semester. As this transition might lead to many questions from staff, the chatbot could be trained to address these concerns, thereby reducing the workload on support resources.
