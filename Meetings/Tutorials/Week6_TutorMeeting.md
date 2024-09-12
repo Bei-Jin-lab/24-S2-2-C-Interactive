@@ -1,4 +1,4 @@
-# Week 5 -Tutor Meeting 
+# Week 6 -Tutor Meeting 
 **Info:**
 - Time: 30 Aug, 10:00-11:30am
 - Location: Ian Ross R221
