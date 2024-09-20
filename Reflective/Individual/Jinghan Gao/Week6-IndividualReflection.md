@@ -1,0 +1,10 @@
+# Week 6 IndividualReflection 
+**Name**:  Jinghan Gao
+
+### 1. What have been done? What challenges and how did I solve them?
+This week, my main focus was on preparing for Audit 2 and managing various logs that track the project’s progress. I worked on completing and organizing several logs, including the meeting log, decision log, feedback log, and task log. I carefully reviewed feedback from meetings, identified feedback that aligned with our project’s goals, and incorporated these into our decision-making process. Once decisions were made, I updated the task log accordingly to ensure that all actions were clearly documented. Additionally, I revised the Statement of Work (Sow), particularly the sections related to the AI component. Another significant task was creating the presentation slides and delivering the presentation.
+
+The primary challenge this week was efficiently managing and organizing the large volume of feedback and decisions from various meetings. It was time-consuming to cross-check each piece of feedback and ensure that all logs were updated consistently. I addressed this challenge by setting up a systematic approach to track decisions and task assignments, which streamlined the process and made it easier to maintain accurate records.
+
+### 2. Reflection: What did I learn or improve?
+This week’s work taught me the importance of meticulous documentation and the critical role that logs play in project management. Maintaining well-organized logs not only helps track the project’s progress but also provides a clear reference for decision-making. I also learned how essential it is to align team decisions with client feedback, as this ensures that our work stays relevant and meets stakeholders’ expectations. Moving forward, I plan to maintain a proactive approach to documentation, ensuring that all feedback is systematically captured and utilized in our decision-making processes.
