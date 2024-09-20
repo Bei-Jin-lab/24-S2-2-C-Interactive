@@ -10,3 +10,8 @@ Disadvantages: Lond audit time.And It has limited learning resources for the fra
 | **Plan C: Online Development + Embedded Chatbot (Chatbase)** | Embedded content must be on an approved site list (Uni ITS)  | Confirm the site list with ANU or purchase service for testing   | Chatbot service (USD 99/M)                                          | Quick implementation with basic functionality. Suitable for projects with minimal customization needs. | Limited customization, may not meet long-term project requirements. ANU IT audit time.                       | 2-4 weeks + audit time.              | Limited scalability due to lack of customization capabilities.     |
 
 Note:Why ChatBase? Because it has been used in other ANU SP site.So the audit failure risk is low.
+<br>
+**Reference**<br>
+[SharePoint Framework Overview](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+<br>
+[Compare SharePoint Plans](https://www.microsoft.com/en-au/microsoft-365/sharepoint/compare-sharepoint-plans)
