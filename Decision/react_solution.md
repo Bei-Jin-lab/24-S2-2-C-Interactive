@@ -1,5 +1,5 @@
 
-**SharePoint Solution**<br>
+**React Solution**<br>
 Advantages: SharePoint is used by ANU. It offers a comprehensive account system and with ANU domain that meets client basic needs.
 Disadvantages: Lond audit time.And It has limited learning resources for the framework and offers restricted design flexibility.
 
