@@ -45,8 +45,8 @@ Its usage and integration with the backend may cause some security risks, such a
     <td>local domain + create database</td>
     <td>Rent a domain and create the own database</td>
     <td>Rent a domain ($10-$20/year). Rent high-performance GPU servers to train AI, $4 - $8/hour</td>
-    <td>Higher autonomy and control, fully control the configuration of domain names, subdomain settings, and DNS management.  
-      <br>Freely choose the database type and customize the database structure according to the needs of the project.</td>
+    <td>1.Higher autonomy and control, fully control the configuration of domain names, subdomain settings, and DNS management.  
+      <br>2.Freely choose the database type and customize the database structure according to the needs of the project.</td>
     <td>1. Loss of school brand support <br>2. Increased maintenance difficulty. Need to undertake all technical maintenance tasks, including troubleshooting, performance optimization, and security management.
       <br>3. Increased additional costs. Lease domain name, hosting service, SSL certificate.
       <br>4. Increased time cost, back-end development, database creation, self-management of access control</td>
