@@ -1,19 +1,61 @@
 
-**React Solution**<br>
-Advantages: SharePoint is used by ANU. It offers a comprehensive account system and with ANU domain that meets client basic needs.
-Disadvantages: Lond audit time.And It has limited learning resources for the framework and offers restricted design flexibility.
+**React Solution**
+<br>Sample website: https://b_3rcpmmo.v0.build/
 
-| **Plan**                                                     | **Requirements**                                               | **Solution**                                                    | **Cost**                                                            | **Benefits**                                                                                          | **Risks**                                                                                  | **Implementation Time** | **Scalability**                                                                                                 |
-|--------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **Plan A: SPFx Local Development**                           | Developer must have a SharePoint tenant                      | Request SharePoint admin permission from Uni ITS                 | Chatbot service (USD 99/M)                                          | Full control over development with flexible customization options. Leverages existing infrastructure. | Delays in obtaining admin permissions from Uni ITS may affect timeline. ANU IT audit time. | 5-7 weeks + audit time. | High scalability for adding new features and components.                                                         |
-| **Plan B: SPFx Local Development + Handover**                | SharePoint tenant must be an organization with a Tax ID      | Register a new tenant for development, hand over to Uni ITS      | SharePoint tenant service (19AU /p/M )and chatbot service (USD 99/M) | Combines flexible local development with smooth handover to Uni ITS for deployment.                   | Additional cost for tenant registration and potential handover delays. ANU IT audit time.                    | 5-7 weeks + audit time.              | High scalability for adding new features and components. |
-| **Plan C: Online Development + Embedded Chatbot (Chatbase)** | Embedded content must be on an approved site list (Uni ITS)  | Confirm the site list with ANU or purchase service for testing   | Chatbot service (USD 99/M)                                          | Quick implementation with basic functionality. Suitable for projects with minimal customization needs. | Limited customization, may not meet long-term project requirements. ANU IT audit time.                       | 2-4 weeks + audit time.              | Limited scalability due to lack of customization capabilities.     |
+Advantages: 
+<br> Highly flexible, providing a high degree of customization. Using virtual DOM to improve performance, can develop complex and dynamic web applications.
 
-Note:Why ChatBase? Because it has been used in other ANU SP site.So the audit failure risk is low.
-<br>
-**Reference**<br>
-[SharePoint Framework Overview](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
-<br>
-[Compare SharePoint Plans](https://www.microsoft.com/en-au/microsoft-365/sharepoint/compare-sharepoint-plans)
+Disadvantages: 
+<br>React is updated frequently, and maintainers need to constantly adapt to new features and best practices, which is difficult for novice programmers.
+Its usage and integration with the backend may cause some security risks, such as Cross-site scripting (XSS).
+
+<table>
+  <tr>
+    <th>Plan</th>
+    <th>Requirements</th>
+    <th>Solution</th>
+    <th>Cost</th>
+    <th>Benefits</th>
+    <th>Risks</th>
+    <th>Implement Time</th>
+    <th>Scalability</th>
+  </tr>
+  <tr>
+    <td>Plan A: Use ANU domain and database</td>
+    <td>ANU domain and database</td>
+    <td>Request a domain and access to the ANU database</td>
+    <td>Chatbot service (USD 99/M)</td>
+    <td>Development with flexible customization. No need to recreate the database</td>
+    <td>Due to security issues, the application for ANU domain and database permissions may not be approved</td>
+    <td>5-7 weeks + audit time.</td>
+    <td>High scalability for adding new features and components.</td>
+  </tr>
+  <tr>
+    <td>Plan B: Use ANU database</td>
+    <td>ANU database</td>
+    <td>Request to access to the ANU database</td>
+    <td>Rent a domain ($10-$20/year). Rent high-performance GPU servers to train AI, $4 - $8/hour</td>
+    <td>Development with flexible customization.</td>
+    <td>Due to security issues, the application for ANU database permissions may not be approved</td>
+    <td>5-7 weeks + audit time.</td>
+    <td>High scalability for adding new features and components.</td>
+  </tr>
+  <tr>
+    <td>Plan C: Use local domain + new database</td>
+    <td>local domain + create database</td>
+    <td>Rent a domain and create the own database</td>
+    <td>Rent a domain ($10-$20/year). Rent high-performance GPU servers to train AI, $4 - $8/hour</td>
+    <td>Higher autonomy and control, fully control the configuration of domain names, subdomain settings, and DNS management.  
+      <br>Freely choose the database type and customize the database structure according to the needs of the project.</td>
+    <td>1. Loss of school brand support <br>2. Increased maintenance difficulty. Need to undertake all technical maintenance tasks, including troubleshooting, performance optimization, and security management.
+      <br>3. Increased additional costs. Lease domain name, hosting service, SSL certificate.
+      <br>4. Increased time cost, back-end development, database creation, self-management of access control</td>
+    <td>5-7 weeks + audit time.</td>
+    <td>High scalability for adding new features and components.</td>
+  </tr>
+</table>
+
+
+
 
 
