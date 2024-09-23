@@ -1,6 +1,6 @@
 # Week 7 -Clients Meeting 
 **Info:**
-- Time: 16 Swp, 03:00-03.30pm
+- Time: 16 Sep, 03:00-03.30pm
 - Location: Online
 - Scribe: Bingkun Li
 - Minutes taker: Jinghan Gao
@@ -59,7 +59,7 @@ Bingkun explained that they were comparing different tools for the project, Henr
 ## Action Items
 |Task                           | Assigned To |Due Date             |
 |:------------------------------|:-----------:|:-------------------:|
-|List the construction method table | All members | 22 Aug 2024 |
+|List the construction method table | All members | 22 Sep 2024 |
 |Meeting minutes                | GJH         |22 Sep 2024|
 
 
