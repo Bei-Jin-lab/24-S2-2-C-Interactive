@@ -44,7 +44,7 @@ Its usage and integration with the backend may cause some security risks, such a
     <td>Plan C: Use local domain + new database</td>
     <td>local domain + create database</td>
     <td>Rent a domain and create the own database</td>
-    <td>Rent a domain ($10-$20/year). Chatbot service (USD 99/M)</td>
+    <td>Rent a domain ($10-$20/year), rent hosting Cloud Server($30 - $100/M), Chatbot service (USD 99/M)</td>
     <td>1.Higher autonomy and control, fully control the configuration of domain names, subdomain settings, and DNS management.  
       <br>2.Freely choose the database type and customize the database structure according to the needs of the project.</td>
     <td>1. Loss of school brand support <br>2. Increased maintenance difficulty. Need to undertake all technical maintenance tasks, including troubleshooting, performance optimization, and security management.
