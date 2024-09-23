@@ -32,10 +32,3 @@
 
 ---
 
-### **Summary of Why WordPress May Not Be Ideal for This Project**:
-
-- **Security Concerns**: WordPress is a widely-used platform but is also a **frequent target for attacks** due to its reliance on third-party plugins. Although Plan B and Plan C offer some security improvements (through SSO and custom API integration), maintaining a high level of security over time requires **constant updates and monitoring**. For an organization like ANU, relying on numerous third-party plugins may pose security risks.
-  
-- **Maintenance Complexity**: Each plan relies on **multiple plugins** to achieve the required functionality. Plugins can introduce compatibility issues, require frequent updates, and can conflict with each other, making maintenance an ongoing challenge. **Custom development** (Plan C) can help reduce plugin reliance, but it significantly increases both the initial development cost and the long-term maintenance effort.
-  
-- **Enterprise Suitability**: While WordPress excels at providing **fast, flexible, and low-cost solutions** for smaller websites, it may not be suitable for **enterprise-level requirements** like deep integration with ANU IT systems and robust security. **SharePoint** or **custom development** using traditional coding methods may be more appropriate for such needs, as they offer **better control** over integration, security, and scalability.
