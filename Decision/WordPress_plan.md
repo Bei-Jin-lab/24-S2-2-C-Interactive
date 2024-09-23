@@ -21,9 +21,9 @@
    - **Plan C**: Custom development adds long-term complexity, requiring **technical expertise** to maintain both custom code and plugins. Any changes in ANU IT systems may require **custom code adjustments**, adding to maintenance efforts.
 
 3. **Cost**:
-   - **Plan A**: Lower initial cost, but the reliance on plugins can lead to **long-term costs** due to necessary paid updates and security concerns. Not ideal for a large organization requiring robust, scalable solutions.
-   - **Plan B**: Medium cost, but **SSO integration** adds a **recurring expense** for the plugin, plus potential costs related to ensuring compatibility between WordPress, plugins, and ANU IT systems.
-   - **Plan C**: High cost due to **custom development**, but this provides the **highest level of customization**. Long-term maintenance can become expensive as the codebase grows more complex.
+   - **Plan A**: About AUD400-800 per year, but the reliance on plugins can lead to **long-term costs** due to necessary paid updates and security concerns. Not ideal for a large organization requiring robust, scalable solutions.
+   - **Plan B**: About AUD1000-1500 per year, but **SSO integration** adds a **recurring expense** for the plugin, plus potential costs related to ensuring compatibility between WordPress, plugins, and ANU IT systems.
+   - **Plan C**: Above AUD1500 per year, due to **custom development**, but this provides the **highest level of customization**. Long-term maintenance can become expensive as the codebase grows more complex.
 
 4. **Scalability**:
    - **Plan A**: Limited scalability; as more plugins are added, performance can degrade, and it becomes harder to manage them. This is not an ideal solution for **large-scale, long-term projects**.
