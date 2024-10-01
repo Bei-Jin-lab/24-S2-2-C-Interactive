@@ -14,6 +14,6 @@
 
 ### 2. Reflection: What did I learn or improve?
 
-- I learned some possible strategies to bulid a ANU website by React(with or without domain and resource. 
-- I realized some features of using React
-- I learned the real step how to build a school webiste by React, and what limit it has.
+From this process, I learned how to effectively use React to manage state and create a responsive, dynamic homepage. I improved my ability to break down complex layouts into reusable components, which not only made development more efficient but also ensured the website was easily maintainable. I also enhanced my skills in optimizing performance with React’s lazy loading and code splitting features.
+
+Analyzing the cost, disadvantages, and advantages of building a website like ANU’s with React taught me valuable lessons about the trade-offs involved in choosing a frontend framework. I now better understand how React excels in creating dynamic and responsive web pages, but also recognize the need to integrate additional tools like SSR for SEO or headless CMS for content management when scaling a large website. This improved my overall approach to planning and executing web development projects using React.
