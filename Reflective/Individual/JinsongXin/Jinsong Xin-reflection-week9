@@ -1,0 +1,11 @@
+### Week[9] Individual Reflection  
+**Name:** Jinsong Xin  
+
+1. **What has been done? What challenges did I face, and how did I solve them?**  
+   - This week, I completed the design and optimization of the WordPress solution, including creating the homepage, chatbot page, and six publishing pages. Each page went through multiple rounds of improvements, especially focusing on enhancing user interaction and visual effects. We ensured that each page is compatible with different devices to improve the overall user experience.  
+   - I collaborated with my teammate Jinghan Gao to successfully embed the chatbot into the website. We had clear task divisions, with me focusing on the design and implementation of the pages and Jinghan handling the technical integration. Through discussions and multiple testing sessions, we ensured that the chatbot was fully compatible with the WordPress system. So far, the preliminary version of the WordPress solution has been largely completed, with the core features in place.  
+   - **Challenges**: The main difficulties were in two areas: First, the search bar still struggles to achieve precise search functionality, making it hard to meet users' expectations for quick content retrieval. Second, we faced issues in implementing detailed segmentation of time and author information for the publishing pages. We are currently exploring suitable plugins and code solutions to resolve these challenges.
+
+2. **Reflection: What did I learn or improve?**  
+   - This week, I learned that website design and user experience optimization is an iterative process, requiring constant adjustments based on testing results and user feedback. I also realized the importance of team collaboration. By working closely with Jinghan Gao, we were able to quickly address any issues, especially during the chatbot integration process. Clear communication and task allocation significantly improved our development efficiency.  
+   - Moreover, I gained a deeper understanding of the complexities of search functionality and the importance of handling details carefully. This experience has provided valuable insights for my future feature development. I plan to continue optimizing the search bar next week and explore more customization options for the WordPress publishing pages to better meet the project’s requirements.
