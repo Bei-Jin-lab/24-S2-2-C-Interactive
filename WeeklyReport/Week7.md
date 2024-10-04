@@ -1,7 +1,7 @@
 # Weekly Report
 - **Week**: 7
 - **Submit by**: Yiou Liu
-- **Date**: 8 Sep 2024
+- **Date**: 21 Sep 2024
 
 ---
 
