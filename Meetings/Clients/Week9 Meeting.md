@@ -1,4 +1,4 @@
-# Week 8 -Clients Meeting 
+# Week 9 -Clients Meeting 
 **Info:**
 - Time: 30 Sep, 03:00-03:40pm
 - Location: Online
