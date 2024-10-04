@@ -4,7 +4,7 @@
 
 **Decision Details**  
 **Date**: 2024-10-04  
-**Author**: Bingkun Li
+**Author**: Jinhan Gao,Jinsong Xin 
 
 **Background**  
 In our current project, to enhance the platform's user experience and interactivity, we plan to embed a chatbot feature in WordPress. The initial solution was to integrate Chatbase’s free version into the website using an iframe. While this approach was quick to implement, a few issues have arisen as the project progresses:
