@@ -1,4 +1,4 @@
-# Week 8 -Shadow Meeting 
+# Week 6 -Shadow Meeting 
 **Info:**
 - Time: 13 Sep, 12:00-13:00
 - Online
@@ -38,26 +38,26 @@ Agenda-2: Receive some suggestions from shadow team
   
 
 Agenda 3: Check the shadow team's work for these 2 weeks
-- In Week 7, the team divided responsibilities—three members focused on interface development while four worked on logical components.
-- Designed a user interface aimed at young girls, discussing how to make it engaging with animations and sound effects.
-- In Week 8, the team implemented the block-based programming logic and optimized control blocks like "if-else" statements.
-- enhanced their documentation practices, using GitHub to track progress and improve transparency.
-  
-- Challenges:Lack of Clear Client Feedback: Further clarification is needed for the design and implementation of certain logic blocks, particularly the sensing and control blocks. Integration Complexity: The team faced technical challenges integrating logical components with the interface, which they addressed through collaboration.
+- The team was divided into two groups—three members focusing on the interface and four on logical components, preparing for Audit 3.
+- The team developed visible outputs, including a homepage with navigation and a picture block page layout, laying the foundation for future expansion.
+- The team successfully completed Audit 3 and received positive feedback on their organization, documentation, and presentation.
+- Challenges: Unfamiliarity with Flutter: Many team members lack experience with Flutter, which poses a challenge, potentially leading to delays and bugs. Some team members focused on coding while others learned Flutter and worked on documentation to maintain project logs.
   
 
 Agenda 4: Give some suggestions to shadow team     
-- Request Detailed Client Feedback Early: Since there were issues with unclear client feedback, proactively schedule regular meetings with the client specifically to clarify any uncertainties. Prepare a list of specific questions about the logic blocks and the interface design to guide these conversations, ensuring that all critical areas are addressed before moving too far into development.
+- Flutter Training and Mentorship: Since unfamiliarity with Flutter is a significant challenge, consider organizing formal training sessions or pairing experienced team members with those less familiar. This peer mentorship can accelerate learning and ensure consistent progress. Additionally, utilizing online tutorials or official Flutter documentation could provide quick solutions to specific problems.
 
-- Iterative Testing and Prototyping: For both the interface and logic components, introduce regular small-scale testing phases. This can help identify issues early in the process and allow for user-centered adjustments before the final implementation. Even basic usability tests with target users (young girls) could provide valuable insights on engagement and ease of use.
+- Incremental Development and Testing: Break down development tasks into smaller, manageable parts and integrate frequent testing cycles. This approach can help catch bugs early, especially with the less familiar Flutter framework. It can also reduce pressure closer to deadlines and prevent major issues from accumulating.
+
+- Clear Documentation and Logs: Continue focusing on maintaining detailed logs in GitHub, ensuring that both progress and challenges are well-documented. This will improve communication, help track decisions, and make it easier to onboard new team members or stakeholders.
 
 
 
 ## Action Items
 | Task                            | Assigned To        |  Due Date  |
 |:--------------------------------|:------------------:|:----------:|
-| Record                          |  Bei Jin           |   27 Sep   |
-| Reflection                      |  Bei Jin           |   30 Sep   |
+| Record                          |  Bei Jin           |   16 Sep   |
+| Reflection                      |  Bei Jin           |   16 Sep   |
 
 
     
@@ -65,7 +65,7 @@ Agenda 4: Give some suggestions to shadow team
 - landing page needs to be imporved.
 - comfirm the front-end technology
 - finish log
-## Other Notes
+
 
 
 
