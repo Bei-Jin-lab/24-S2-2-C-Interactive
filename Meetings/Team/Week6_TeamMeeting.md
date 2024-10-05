@@ -1,4 +1,4 @@
-# Week 6 -Team Meeting 1
+# Week 6 -Team Meeting
 **Info:**
 - Time: 26 Aug, 3:40 - 4:10pm
 - Location: Online
