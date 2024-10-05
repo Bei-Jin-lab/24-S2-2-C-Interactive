@@ -1,6 +1,6 @@
 # Week 8 -Shadow Meeting 
 **Info:**
-- Time: 27 Aug, 12:00-13:00
+- Time: 27 Sep, 12:00-13:00
 - Online
 - Scribe: Bei Jin
 - Describe: Introduce the work content and project progress in the past two weeks
