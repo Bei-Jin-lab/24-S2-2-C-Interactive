@@ -19,21 +19,19 @@
 
 ## Meeting minutes
 Agenda-1: Introduce our group's work for these 2 weeks
-- Introduce the logs we added to the project, such as tasklog, personalreflective log, feedback log, weekly report.
-- Show our modified landingpage
-- Introduce the difficulties encountered in the current work (apply for a domain name)
-- The front-end and back-end technologies selected (react and database)
- 
+- Worked on resolving issues with WordPress security plugin integration, improving the site’s security. 
+- Evaluated chatbot solutions and clarified licensing issues with ANU IT, preparing for client discussions with a comparison table.
+- Explored WPForms solutions for post submissions without backend access.
+- redesigned the SharePoint site, improving visual appeal and exploring platform limitations.
+
+
 
 
 Agenda-2: Receive some suggestions from shadow team 
-- The shadow team reflected their views on the landing page:
- 1. The landing page interface has made great progress. However, due to the large number of branches in the log, it is a bit messy. It may be better if it is arranged in a list format.
-- The shadow team reflected their views on the log:
- 1. The newly added log is very helpful for viewing project progress
-- The shadow team reflected their views on the project's difficulties:
- 1. Domain name application may involve security, and it is necessary to use a more secure technology to complete the website establishment
- 2. React has a high requirement for programming level. Can the team members master this technology as soon as possible to complete the front end
+- Follow up with ANU IT to expedite the approval process.
+
+- Continue communication with ANU IT to resolve licensing issues swiftly.
+ 
 
   
 
@@ -62,9 +60,9 @@ Agenda 4: Give some suggestions to shadow team
 
     
 ## Outcome
-- landing page needs to be imporved.
-- comfirm the front-end technology
-- finish log
+- Follow up with ANU IT to expedite the approval process.
+
+- Continue communication with ANU IT to resolve licensing issues swiftly.
 ## Other Notes
 
 
