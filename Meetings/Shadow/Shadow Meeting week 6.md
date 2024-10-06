@@ -19,21 +19,18 @@
 
 ## Meeting minutes
 Agenda-1: Introduce our group's work for these 2 weeks
-- Introduce the logs we added to the project, such as tasklog, personalreflective log, feedback log, weekly report.
-- Show our modified landingpage
-- Introduce the difficulties encountered in the current work (apply for a domain name)
-- The front-end and back-end technologies selected (react and database)
- 
+- Introdcue we focused on backend development with Java-Spring Boot, including system architecture and UML diagrams. This work was halted due to a shift in platform requirements.
+- We shifted to SharePoint, developed the user interface, homepage, and custom web parts to adapt to SharePoint's limitations.
+- Maintaining logs and preparing documentation in alignment with client feedback and the project’s updated goals on the SharePoint platform.
+  
 
 
 Agenda-2: Receive some suggestions from shadow team 
-- The shadow team reflected their views on the landing page:
- 1. The landing page interface has made great progress. However, due to the large number of branches in the log, it is a bit messy. It may be better if it is arranged in a list format.
-- The shadow team reflected their views on the log:
- 1. The newly added log is very helpful for viewing project progress
-- The shadow team reflected their views on the project's difficulties:
- 1. Domain name application may involve security, and it is necessary to use a more secure technology to complete the website establishment
- 2. React has a high requirement for programming level. Can the team members master this technology as soon as possible to complete the front end
+
+- Seek SharePoint development support, especially for integrating custom web parts and Power Automate workflows.
+
+- Continue local development but maintain close coordination with ANU ITS to expedite server deployment approvals.
+ 
 
   
 
