@@ -59,9 +59,9 @@ Agenda 4: Give some suggestions to shadow team
 
     
 ## Outcome
-- landing page needs to be imporved.
-- comfirm the front-end technology
-- finish log
+- Seek SharePoint development support
+
+- Maintain close coordination with ANU ITS to expedite server deployment approvals.
 
 
 
