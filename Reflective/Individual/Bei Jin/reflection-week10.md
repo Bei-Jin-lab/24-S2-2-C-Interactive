@@ -8,14 +8,16 @@
 
 ### 1. What have been done? What challenges and how did I solve them?
 
-- review the project and edit the SOW
+- review the project and edited the Statement of Work (SOW) to align it with the current project scope.
+  Challenges: Ensuring alignment between the project’s objectives and SOW while avoiding scope creep.
+  Solution: carefully cross-referenced project objectives with SOW requirements, making precise edits to ensure clarity and avoid misunderstandings.
 - add some documents and logs
 - prepare the presentation and PowerPoint
   
 ### 2. Reflection: What did I learn or improve?
 
-- This week, I learned the importance of clear communication with stakeholders, particularly when contacting our tutor to clarify expectations for Audit 3 and the video assignment. This ensured we were aligned with the project requirements and deadlines.
-- Additionally, making the project video helped me improve my video editing and presentation skills, which are crucial for effectively showcasing project outcomes.
-- Completing the project documents also enhanced my organizational and documentation abilities, ensuring all aspects of the project were well-documented and ready for submission.
+- Through these tasks, I improved my editing skills for precise document alignment in project management, strengthened my organizational skills by managing documents and logs systematically,
+- enhanced the communication skills by refining complex information for presentations.
+- These experiences have helped solidify my ability to handle documentation and deliver clear project updates.
 
 
