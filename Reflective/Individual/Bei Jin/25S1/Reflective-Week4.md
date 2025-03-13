@@ -8,9 +8,9 @@
 
 ### 1. What have been done? What challenges and how did I solve them?
 
-- review the project and edited the Statement of Work (SOW) to align it with the current project scope.
-  Challenges: Ensuring alignment between the project’s objectives and SOW while avoiding scope creep.
-  Solution: carefully cross-referenced project objectives with SOW requirements, making precise edits to ensure clarity and avoid misunderstandings.
+- review the project and build new structure of log
+  Challenges: Ensuring the connection between the 25S1 and 24S2
+  Solution: made same structure of log with 24S2
 - add some documents and logs
 - prepare the presentation and PowerPoint
   
