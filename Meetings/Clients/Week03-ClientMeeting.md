@@ -1,6 +1,6 @@
 #  Week 03 -Clients Meeting 
 **Info:**  
-- **Time:** 7 Mar 2025, 11:00 PM  
+- **Time:** 7 Mar 2025, 11:00 AM
 - **Duration:** 20 minutes  
 - **Location:** Online  
 - **Minutes taker:** Yujing Zhang
