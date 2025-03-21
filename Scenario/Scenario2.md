@@ -1,0 +1,4 @@
+### Scenario 1
+**By.Yujing Zhang**
+
+Canvas has recently introduced a new feature that makes it easier for instructors to track student progress. Alex, the CBE website administrator, realizes that the chatbot needs to be updated so users can find information about this new feature. He logs into the CBE website’s admin panel and accesses the chatbot training section. First, he reviews the existing responses related to Canvas usage. Then, he uploads the new training materials, including FAQs, step-by-step guides, and screenshots of the new feature. He also adjusts the chatbot’s response flow to ensure that when users ask questions about tracking student progress, the bot provides accurate and up-to-date information. After saving the updates, Alex tests the chatbot by asking a few related questions. Satisfied with the results, he publishes the changes.

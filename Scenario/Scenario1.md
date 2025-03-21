@@ -1,0 +1,4 @@
+### Scenario 1
+**By.Yujing Zhang**
+
+Professor Li recently learned that the university is switching from Wattle to Canvas for course management. He is worried that students and new teachers might struggle with the transition. To help them, he decides to write a detailed guide on the CBE website, explaining how to upload course materials, manage discussion boards, and assign homework. He logs into the CBE website, opens the article editor, organizes his prepared content into clear steps, and adds screenshots. Once he finishes editing, he clicks "Publish," making the article immediately available on the site. The system also sends notifications to users subscribed to this topic.
