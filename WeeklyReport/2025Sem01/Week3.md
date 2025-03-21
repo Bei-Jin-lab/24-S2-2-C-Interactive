@@ -1,39 +1,62 @@
-# Weekly Report
-- **Week**: 3
-- **Submit by**: Yiou  
+# Weekly Report  
+- **Week**: 3  
+- **Submit by**: Yiou Liu
 - **Date**: 07 Mar 2025
 
 ---
 
-## 1. We Done:
-- **User Manual & Video Recording** (Jinsong Xin) - [100%]  
-  - Created a guide and recorded a video tutorial on uploading articles in WordPress.
-- **Landing Page Update** (Jinsong Xin, Yujing Zhang) - [100%]  
-  - Updated team landing page to integrate documentation from 24S2 and 25S1.
-- **Documentation** (Yiou Liu, Yunru Chen) - [100%]  
-  - documented key discussions of meetings with clients and tutor on Friday, wrote weekly report and reflection.
-- **Team Meeting Logs & Synchronization** (Yujing Zhang) - [100%]  
-  - Updated meeting records and ensured documentation consistency.
-- **Chatbot Training Model Setup & Data Upload** (Bingkun Li, Jinghan Gao) - [100%]  
-  - Paid for the chatbot model training and uploaded datasets.
-- **GitHub Repository Organization** (Bingkun Li) - [100%]  
-  - Organized GitHub files, distinguishing between 24S2 and 25S1; resolved permission issues.
-- **Sprint Planning & Task Allocation** (Jinghan Gao, Team Members) - [100%]  
-  - Finalized each member’s responsibilities for the semester and set sprint goals.
+## 1. We Done：
+
+- **Project Preparation & Task Allocation**:  
+  - Finalized each member’s responsibilities for the semester.  
+  - Held meetings with both the **client** and **tutor (Zara)** to clarify deliverables, sprint plan, and goals.  
+  - Aligned Sprint 1 tasks with project timeline and client expectations.
+
+- **Documentation & Organization**:  
+  - Re-organized GitHub repository and documentation: separated 24S2 and 25S1 files for clarity.  
+  - Closed and archived 24S2 documents; created new documentation structure for 25S1.  
+  - Updated meeting logs, client meeting summaries, and landing page layout.  
+
+- **Chatbot & Technical Preparation**:  
+  - Acquired and initiated **Chatbox AI model training**, including dataset upload and early-stage setup.  
+  - Began learning AI chatbot training and integration knowledge for future implementation.
+
+- **Presentation & Communication**:  
+  - Prepared PowerPoint slides for presentation.  
+  - Summarized and communicated key client feedback and team discussions.  
+  - Drafted the weekly report and ensured clear team communication.
 
 ---
 
-## 2. Issues & Help Needed
+## 2. Issues & Help Needed  
 **Write down the problems**
-- **Clarifying Client Requirements** - [Urgency: Medium] - Need clearer task breakdown for implementation.
-- **Workload Balancing** - [Urgency: Low] - Some team members have limited availability; task distribution adjusted.
-- **GitHub Permission Issues** - [Urgency: Low] - Resolved through timely communication but may require further management.
-- **Chatbot Model Training Complexity** - [Urgency: Medium] - Requires further understanding of AI training techniques.
+
+- **GitHub Permission Issue**  
+  - **Urgency**: Medium  
+  - **Help Needed**: Resolved through internal communication, but future permission issues may require a streamlined access plan.
+
+- **Unclear Requirements from Client**  
+  - **Urgency**: Medium  
+  - **Help Needed**: Clarified through targeted questions during meetings. Continued support in requirement gathering might be helpful.
+
+- **Team Availability Variation**  
+  - **Urgency**: Low  
+  - **Help Needed**: Adjusted task distribution. May need flexibility or buffer time in upcoming sprints.
 
 ---
 
-## 3. Next Steps
-- **Refine WordPress Documentation** [Responsible: Jinsong Xin, Bingkun Li]
-- **Start data collection& wrangling** [Responsible: Jinghan Gao, Yiou Liu, Yujing Zhang, Yunru Chen, Bei Jin]
-- **Prepare for Next Client Meeting** [Responsible: All Team Members]
-- **Continue Synchronizing Logs & Team Documentation** [Responsible: All members]
+## 3. Next Steps  
+- **AI Chatbot Training & Integration**  
+  - *Responsible*: Jinghan, Yujing, Yiou, Yunru
+
+- **Landing Page Update & Wordpress website maintain**  
+  - *Responsible*: Jinsong, Bingkun
+
+- **Sprint Planning & Weekly Report Coordination**  
+  - *Responsible*: all members
+
+- **Documentation & Meeting Log Maintenance**  
+  - *Responsible*: all members
+
+- **Client Communication & Requirement Follow-up**  
+  - *Responsible*: all members
