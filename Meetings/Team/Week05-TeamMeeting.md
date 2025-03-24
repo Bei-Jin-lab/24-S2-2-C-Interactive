@@ -48,7 +48,7 @@ The team discussed the current project progress and assigned specific tasks to e
 
 - **Bei Jin**:
     - Update **Users story**
-    - Update **Feedbakck log** based on the **Client Meeting**
+    - Update **Feedback log** based on the **Client Meeting**
     - Record the **Team Meeting** minutes and ensure all discussions are documented.
     
 
