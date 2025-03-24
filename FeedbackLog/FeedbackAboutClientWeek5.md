@@ -1,18 +1,16 @@
 # Feedback Collection
 
 **Date**: [2025-03-21]  
-**Point of Contact**: [Your Name]
+**Point of Contact**: [Bei Jin]
 ---
-### Issue/Topic: [issue/topic]
+### Issue/Topic: [UI and chatbot feedback]
 - **Details**:[Details]
 ---
 
 ### Feedback Summary
-*Summarize the key points or consensus reached from the feedback.*
 
-- Summary point 1
-- Summary point 2
-- Summary point 3
+- Refer to ANU's website design (simple and intuitive) to further improve UI.
+- Determine the scope and source of the data collected; SharePoint materials should take priority over Canvas data
 
 ---
 
