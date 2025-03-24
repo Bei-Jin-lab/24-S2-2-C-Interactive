@@ -16,9 +16,10 @@
 
 ### Detailed Feedback
 
-#### Stakeholder 1: [Name/Role]
-**Feedback Source**: [In-person/Email/Meeting]  
-**Date**: [YYYY-MM-DD]
+Refer to ANU's website design (simple and intuitive) to further improve UI.
+#### Stakeholder 1: [Henry]
+**Feedback Source**: [In-person]  
+**Date**: [2025-03-21]
 
 - **Feedback**:
     - Point 1
@@ -27,9 +28,9 @@
 
 ---
 
-#### Stakeholder 2: [Name/Role]
-**Feedback Source**: [In-person/Email/Meeting]  
-**Date**: [YYYY-MM-DD]
+#### Stakeholder 2: [Henry and Dale]
+**Feedback Source**: [In-person]  
+**Date**: [2025-03-21]
 
 - **Feedback**:
     - Point 1
