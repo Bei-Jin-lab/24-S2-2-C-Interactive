@@ -38,26 +38,31 @@ The team discussed the current project progress and assigned specific tasks to e
 
 - **Bingkun Li**:
     - Contribute to **UI improvements** and ensure consistency across the platform.
+    - Update milestone
 
 #### Documentation Updates:
 - **Yiou Liu**:
     - Prepare the **Weekly Report** and upload it to the GitHub repository.
-    - Data collection.
+    -  Update **Users story**
+    
 
 - **Bei Jin**:
-    - Update the **Task Log**, **Risk Log**, and **Decision Log**. Ensure all logs are complete and up-to-date.
-    - Data collection.
+    - Update **Users story**
+    - Update **Feedbakck log** based on the **Client Meeting**
+    - Record the **Team Meeting** minutes and ensure all discussions are documented.
+    
 
 - **Yunru Chen**:
     - Write the **weekly team reflection** and submit it to the GitHub project.
     - Record and summarize the **Tutor Meeting**.
-    - Data collection.
+    
 
 - **Yujing Zhang**:
-    - Summarize the **Client Meeting** from Week 4.
-    - Record the **Team Meeting** minutes and ensure all discussions are documented.
+    - Summarize the **Client Meeting** from Week 5.
+    - UI improvement
+    - Update **Users story** and **Scenario**
     - Work on the **Data Collection Documentation**.
-    - Data collection.
+    
 
 - **Jinghan Gao**:
     - Assist with **data collection**, including web scraping.
@@ -69,25 +74,26 @@ The team discussed the current project progress and assigned specific tasks to e
 ## Action Items
 | Task                                     |                Assigned To                |  Due Date   |  
 |:-----------------------------------------|:-----------------------------------------:|:-----------:|  
-| Update Landing Page                      |               Jingsong Xin                | 19 Mar 2025 |  
-| Improve UI consistency                   |         Bingkun Li, Jingsong Xin          | 19 Mar 2025 |  
-| Prepare Weekly Report                    |                 Yiou Liu                  | 19 Mar 2025 |  
-| Update Task Log, Risk Log, Decision Log  |                  Bei Jin                  | 19 Mar 2025 |  
-| Write weekly team reflection             |                Yunru Chen                 | 19 Mar 2025 |  
-| Record Tutor Meeting summary             |                Yunru Chen                 | 19 Mar 2025 |  
-| Summarize Week 4 Client Meeting          |               Yujing Zhang                | 19 Mar 2025 |  
-| Record Team Meeting minutes              |               Yujing Zhang                | 14 Mar 2025 | 
-| Record Client Meeting minutes            |               Yujing Zhang                | 14 Mar 2025 | 
-| Work on Data Collection Documentation    |         Yujing Zhang, Jinghan Gao         | 19 Mar 2025 |  
-| Conduct Web Scraping for Data Collection |                Jinghan Gao                | 19 Mar 2025 |  
-| Sharepoint Data Collection               | Yiou Liu,Bei Jin,Yunru Chen,Yujing Zhang,Jinghan Gao | 14 Mar 2025 |
-| Canvas Data Collection                   |                Jinghan Gao                | 19 Mar 2025 |  
+| Update Landing Page                      |               Jingsong Xin                | 26 Mar 2025 |  
+| Improve UI consistency                   |   Bingkun Li, Jingsong Xin, Yujing Zhang  | 26 Mar 2025 | 
+| Update milestone                         |                 Bingkun Li                | 26 Mar 2025 |  
+| Prepare Weekly Report                    |                 Yiou Liu                  | 26 Mar 2025 |  
+| Update Feedback Log                      |                  Bei Jin                  | 26 Mar 2025 |  
+| Write weekly team reflection             |                Yunru Chen                 | 26 Mar 2025 |  
+| Record Tutor Meeting summary             |                Yunru Chen                 | 26 Mar 2025 |  
+| Summarize Week 5 Client Meeting          |               Yujing Zhang                | 26 Mar 2025 |  
+| Record Team Meeting minutes              |                  Bei Jin                  | 26 Mar 2025 | 
+| Record Client Meeting minutes            |               Yujing Zhang                | 26 Mar 2025 | 
+| Work on Data Collection Documentation    |         Yujing Zhang, Jinghan Gao         | 26 Mar 2025 |  
+| Conduct Web Scraping for Data Collection |                Jinghan Gao                | 26 Mar 2025 |  
+| Update Users story                       |                All members                | 26 Mar 2025 |
+| Canvas Data Collection                   |                Jinghan Gao                | 26 Mar 2025 |  
 ---
 
 ## Next Week
 - **Group Meeting**:
-    - **Scribe:** Yujing Zhang
-    - **Time:** 21 Mar 2025, 1:00 PM - 1:30 PM
+    - **Scribe:** Bei Jin
+    - **Time:** 28 Mar 2025, 1:00 PM - 1:30 PM
 
 ---
 
@@ -99,6 +105,6 @@ The team discussed the current project progress and assigned specific tasks to e
 ---
 
 ## Other Notes
-- The next team meeting will focus on data wrangling.  
+- The next team meeting will focus on data wrangling and cleaning.  
 
 
