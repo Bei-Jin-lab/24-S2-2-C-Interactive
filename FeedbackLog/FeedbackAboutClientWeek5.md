@@ -4,7 +4,7 @@
 **Point of Contact**: [Bei Jin]
 ---
 ### Issue/Topic: [UI and chatbot feedback]
-- **Details**:[Details]
+- **Details**:[The website UI design is basically completed and is currently in the data collection stage, which will be used for AI training.]
 ---
 
 ### Feedback Summary
