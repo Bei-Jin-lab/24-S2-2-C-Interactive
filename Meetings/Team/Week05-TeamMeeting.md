@@ -1,10 +1,10 @@
-# Week 04 - Team Meeting
+# Week 05 - Team Meeting
 
 **Info:**
 - **Time:** 21 Mar 2025, 11:30 PM - 12:30 PM
 - **Location:** Hive (In-person)
-- **Scribe:** Yujing Zhang
-- **Describe:** Task allocation and Chatbot training data
+- **Scribe:** Bei Jin
+- **Describe:** Task allocation and UI improvement
 
 **Attendees:**
 - Jingsong Xin
@@ -21,7 +21,8 @@
 |  Number  | Item                                                 |  
 |:--------:|:-----------------------------------------------------|  
 | Agenda 1 | Task Allocation and Project Progress Discussion      |  
-| Agenda 2 | Training source scope and methods of collecting data |  
+| Agenda 2 | How to immprove UI part to meet client's requirements |  
+| Agenda 3 | Update users story |  
 
 ---
 
@@ -33,7 +34,7 @@ The team discussed the current project progress and assigned specific tasks to e
 #### UI & Front-End Updates:
 - **Jingsong Xin**:
     - Update the **Landing Page** with improved UI elements.
-    - Contribute to UI improvements and ensure consistency across the platform.
+    - Contribute to UI improvements.
 
 - **Bingkun Li**:
     - Contribute to **UI improvements** and ensure consistency across the platform.
