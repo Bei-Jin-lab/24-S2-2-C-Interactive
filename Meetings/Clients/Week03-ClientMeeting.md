@@ -61,7 +61,7 @@
 ## Action Items  
 | Task | Assigned To | Due Date |  
 |:-----|:-----------:|:--------:|  
-| Provide manual/instructions for uploading content to WordPress | Bingkun Li | 14 Mar 2025 |  
+| Provide manual/instructions for uploading content to WordPress | Jinsong Xin | 14 Mar 2025 |  
 | Continue training the chatbot using SharePoint resources | Jinghan Gao | 14 Mar 2025 |  
 | Arrange payment for chatbot service | Henry Zhu | 14 Mar 2025 |  
 | Prepare for chatbot testing with conveners | Team | 21 Mar 2025 |  
