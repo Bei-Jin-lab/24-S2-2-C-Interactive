@@ -12,6 +12,7 @@
 - Update Feedback log based on the Client Meeting
 - Update tasklog and Decision-log
 - Record the Team Meeting minutes and ensure all discussions are documented.
+- Review other's data collection from ANU website.
   
 ### 2. Reflection: What did I learn or improve?
 
