@@ -63,5 +63,4 @@ As a professor at CBE, I want to clearly show how to transition to Canvas throug
 
 As a CBE website administrator, I want to update the website's format and color scheme to comply with ANU standard fonts and implement it through coding as the default overlay, enhancing the overall visual consistency of the website.
 
-As a CBE website administrator, I want to create a log framework for this semester, to better track website activities and user interactions.
 
