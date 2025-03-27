@@ -1,9 +1,8 @@
 # 🌟 Sprint 1 Report (Week 3–Week 6)
 
-**Project Title:** ANU CBE WordPress & AI Chatbot Integration  
 **Sprint Duration:** Week 3 – Week 6  
 **Prepared by:** Yiou Liu (on behalf of the team)  
-**Date:** 27 Mar 2025
+**Date:** 26 Mar 2025
 
 ---
 
@@ -28,7 +27,8 @@
 - Collected Q&A data from ANU website, Canvas, and SharePoint using manual and automated (Python scraping) methods.
 - Handled deduplication and anti-blocking strategies for scraping.
 - Drafted comprehensive data collection documentation including scope, formatting, and naming conventions.
-- Validated data integrity through peer cross-checking; addressed issues such as link/text loss in PDF exports.
+- Cross-checked data for integrity, addressing issues like missing links or truncated text in exported PDFs.
+- Cleaned and prioritized collected data by reviewing guidebook links and SharePoint files, removing irrelevant content (e.g., video links), and ranking resources by relevance. Compiled the cleaned materials into a structured data manual to support high-quality chatbot training.
 
 ### 3. WordPress Website Development
 - **Version 1.1 (Week 4–5):**
