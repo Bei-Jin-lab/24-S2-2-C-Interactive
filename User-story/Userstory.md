@@ -49,8 +49,6 @@ As a CBE website administrator, I want to perform regular sorting of website pro
 
 As a CBE website administrator, I want to design a clear update plan for version 1.2 of the website, to systematically guide further development.
 
-As a CBE website administrator, I want to automate the collection and validation of collected PDFs and links, to reduce errors and omissions.
-
 As a CBE website administrator, I want to optimize the prioritization and cleaning of SharePoint content, to improve content management efficiency.
 
 As a CBE website administrator, I want to create a priority-based data document, for more systematic handling and access to important information.
