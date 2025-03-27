@@ -11,7 +11,7 @@ As a CBE website administrator, I want to modify the chatbot’s response flow, 
 
 As a CBE website administrator, I want to test the chatbot after updating its training data, so that I can ensure it responds correctly to user inquiries.
 
-As a CBE website administrator, I want to publish chatbot updates after successful testing, so that students and instructors can access the most recent Canvas-related information.
+As a CBE website administrator, I want to publish chatbot updates after successful testing, so that instructors can access the most recent Canvas-related information.
 
 As a CBE website administrator, I want to update and test the chatbot's publishing functionality, to ensure seamless transitions when releasing new versions.
 
