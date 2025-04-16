@@ -7,7 +7,7 @@
 - **Duration:** 40 minutes
 - **Location:** In-person
 - **Minutes taker:** Bei Jin
-- **Description:** Interface updates, chatbot progress, and project scope discussions
+- **Description:** Interface updates, chatbot progress.
 
 **Attendees:**
 - Henry Zhu (Client)
