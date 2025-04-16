@@ -25,7 +25,7 @@
 ### **Agreed Procedure**
 - The website interface will be more brief.
 - The chatbot need to be improved.
-- Two team members will present the chatbot to **Dianna** in **Week 7**, and the client will provide a **large screen** for the demonstration.
+- Select some team members to present the chatbot to **Dianna** in **Week 7**.
 
 ---
 
