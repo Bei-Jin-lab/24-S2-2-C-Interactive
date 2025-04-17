@@ -1,4 +1,4 @@
-# 25 S1 Week 6 - Tutor Meeting
+# 25 S1 Week 7 - Tutor Meeting
 **Info:**
 - Time: 17 April, 12:30-13:00 PM
 - Location: Hive
