@@ -1,4 +1,4 @@
-# Week 09 - Team Meeting
+# Week 08 - Team Meeting
 
 **Info:**
 - **Time:** 29 Apr 2025, 9:30 PM - 10:00 PM
