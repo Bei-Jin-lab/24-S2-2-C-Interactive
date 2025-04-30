@@ -1,4 +1,4 @@
-# Week 5 IndividualReflection 
+# Week 6 IndividualReflection 
 **Name**:  Bei Jin
 
 
@@ -8,15 +8,13 @@
 
 ### 1. What have been done? What challenges and how did I solve them?
 
-- Update Users story
+- Update Scenario
 - Update Feedback log based on the Client Meeting
-- Update tasklog and Decision-log
-- Record the Team Meeting minutes and ensure all discussions are documented.
-- Review other's data collection from ANU website.
+- Assist in data cleaning
   
 ### 2. Reflection: What did I learn or improve?
 
-- During this process, I enhanced my ability to maintain clear and structured documentation, ensuring that all updates were accurately reflected in the user story, feedback log, task log, and decision log. Recording the team meeting minutes helped me improve my attention to detail and ability to capture key discussions effectively.
-- One of the challenges I faced was consolidating feedback from different sources while ensuring consistency and clarity. To solve this, I carefully reviewed all inputs, organized them logically, and cross-checked with previous records to avoid discrepancies.
-- Through this experience, I improved my ability to synthesize information, communicate updates clearly, and maintain well-structured documentation, which will be beneficial for future project management tasks.
+-  Updating the scenario and feedback log pushed me to sharpen my documentation skills, as I found myself carefully capturing nuances from our client meeting that I might have overlooked before.
+-  The data cleaning process was particularly challenging—I encountered several inconsistent formats that initially had me scratching my head, but through persistent problem-solving and a bit of creative thinking, I managed to develop a systematic approach that saved us hours of manual work.
+-  What surprised me most was how my confidence in client interactions has grown; I found myself not just passively taking notes but actively engaging with their feedback and suggesting improvements they hadn't considered. 
 
