@@ -1,7 +1,7 @@
 
 
 ## Week 7 Individual Reflection  
-**Name:**  
+**Name:**  Jinsong Xin
 
 - This week marked the final client review after the midterm break. As a developer and maintainer on the web front end, I contributed to several key tasks:
   - Assisted Yiou Liu with the integration of the posting feature.
