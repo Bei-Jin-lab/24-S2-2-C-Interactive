@@ -1,6 +1,6 @@
 # User story
 
-## Author: Bei Jin
+## Author: Bei Jin,BINGKUN LI
 
 ### 1.As a faculty member, I want to manually write precise responses for identified problematic questions, so that the chatbot can provide accurate information to users.
 
@@ -105,3 +105,55 @@ Materials are accessible without complicated navigation
 Content is printable for offline reference
 
 Estimated Time: 3 hours.
+
+### 9. As a content contributor,I want to easily upload and edit articles through a simple interface,so that I can quickly share updates or resources with users.
+
+Criteria:
+– The website provides a user-friendly content editor
+– Uploaded articles can be saved as drafts or published immediately
+– Contributors can edit or delete their own articles
+– Preview mode is available before publishing
+
+Estimated Time: 4 hours
+
+### 10. As a faculty member,I want to receive suggestions for related content when reading an article,so that I can explore other useful information without needing to search manually.
+
+Criteria:
+– Each article displays a list of related posts based on tags or categories
+– Related content is relevant and context-aware
+– Suggestions appear at the end or side of each article
+– Users can navigate directly to the suggested content
+
+Estimated Time: 3 hours
+
+### 11. As a mobile user,I want the website to be fully responsive,so that I can browse and interact with the content on any device.
+
+Criteria:
+– Page layout adjusts automatically to different screen sizes
+– Navigation remains accessible and functional on mobile
+– Touch interactions are optimized for smaller screens
+– Content maintains readability and usability on all devices
+
+Estimated Time: 4 hours
+
+### 12. As a content reviewer,I want to track changes and updates made to published articles,so that I can ensure quality and accuracy across the platform.
+
+Criteria:
+– The system logs version history for each article
+– Reviewers can compare current and previous versions
+– Editors are notified of significant updates or changes
+– Rollback options are available for error correction
+
+Estimated Time: 5 hours
+
+### 13. As a website user,I want to be able to search for information quickly using keywords,so that I can find specific articles or topics without browsing manually.
+
+Criteria:
+– A search bar is prominently placed on all major pages
+– Search results are accurate and ranked by relevance
+– Results show article title, summary, and category
+– Search supports filtering by category or date
+
+Estimated Time: 3 hours
+
+
