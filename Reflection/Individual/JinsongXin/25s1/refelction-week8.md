@@ -1,7 +1,7 @@
 
 
 ## Week 8 Individual Reflection  
-**Name:**
+**Name:** Jinsong Xin
 
 - This week, I focused on collecting and analyzing feedback from the final client review. Based on the feedback, I participated in designing the iteration plan for version 1.4 of the website.
   - The main goal was to improve content layout by implementing a system for categorizing articles.
