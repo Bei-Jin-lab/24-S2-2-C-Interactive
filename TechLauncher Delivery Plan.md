@@ -7,8 +7,8 @@
 | Jinsong Xin    | u7729371 |
 | Bei Jin        | u7634090 |
 | Yujing Zhang   | u7671098 |
-| Bingkun Li     | u7706892 |
-| Yiou Liu       | u7778576 |
+| Bingkun Li     | u7707490 |  
+| Yiou Liu       | u7778576 |  
 | Yunru Chen     | u7706892 |
 | Jinghan Gao    | u7264563 |
 
