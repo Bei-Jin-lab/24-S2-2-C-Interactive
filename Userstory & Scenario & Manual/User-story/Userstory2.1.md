@@ -12,7 +12,7 @@ The interface provides formatting options for structured answers
 Changes are tracked with version history
 
 Estimated Time: 4 hours.
-
+[link manual](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Documentation+of+training+methods)
 
 
 ### 2.As an IT administrator, I want to update the chatbot's knowledge base with verified answers, so that the system has access to the most current information.
@@ -23,6 +23,7 @@ Updates are timestamped and tracked
 The system confirms successful integration of new content
 Old versions of answers are archived but retrievable
 
+[link update](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=improve+the+accuracy+of+AI)
 Estimated Time: 3 hours.
 
 
@@ -34,7 +35,7 @@ Manually verified answers take precedence when available
 The selection algorithm considers the recency of updates
 Configuration options allow fine-tuning of priority rules
 
-https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Creating+a+Priority-Based+data+Document
+[link priority](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Creating+a+Priority-Based+data+Document)
 
 Estimated Time: 6 hours.
 
@@ -47,7 +48,7 @@ Users can provide specific feedback about inaccuracies
 Flagged responses are collected in a dashboard for review
 Administrators receive notifications of frequently flagged content
 
-
+[link flag](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Client+Testing+and+Feedback+Collection)
 Estimated Time: 5 hours.
 
 
@@ -64,6 +65,8 @@ Content can be organized into logical sections with clear headings
 Screenshots and visual aids can be embedded within the guide
 The system supports save drafts and preview functionality
 
+[link Guide](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Guidebook+Scraping+from+Canvas)
+
 
 Estimated Time: 8 hours.
 
@@ -78,7 +81,7 @@ Published content immediately appears in all selected categories
 Category assignments can be edited after publication
 The system prevents duplicate displays within the same category
 
-
+[link category](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Classification+function+display)
 Estimated Time: 2 hours.
 
 
@@ -92,7 +95,7 @@ Search functionality is prominently featured on all pages
 Related content suggestions appear with each article
 Mobile responsiveness ensures usability across devices
 
-
+[link interface](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=The+format+and+color+scheme)
 Estimated Time: 10 hours.
 
 
@@ -106,6 +109,8 @@ Visual guidance supplements text instructions
 Materials are accessible without complicated navigation
 Content is printable for offline reference
 
+[link instruction](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Guide+to+uploading+articles)
+
 Estimated Time: 3 hours.
 
 ### 9. As a content contributor,I want to easily upload and edit articles through a simple interface,so that I can quickly share updates or resources with users.
@@ -115,6 +120,7 @@ Criteria:
 – Uploaded articles can be saved as drafts or published immediately
 – Contributors can edit or delete their own articles
 – Preview mode is available before publishing
+[link upload](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Enhance+the+post+upload)
 
 Estimated Time: 4 hours
 
@@ -135,6 +141,8 @@ Criteria:
 – Navigation remains accessible and functional on mobile
 – Touch interactions are optimized for smaller screens
 – Content maintains readability and usability on all devices
+
+[link mobile](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=mobile)
 
 Estimated Time: 4 hours
 
