@@ -34,6 +34,8 @@ Manually verified answers take precedence when available
 The selection algorithm considers the recency of updates
 Configuration options allow fine-tuning of priority rules
 
+https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Creating+a+Priority-Based+data+Document
+
 Estimated Time: 6 hours.
 
 
