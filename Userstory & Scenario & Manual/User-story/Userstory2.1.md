@@ -10,9 +10,10 @@ The system allows authorized users to create new verified responses
 Each response is tagged with metadata including creation date and author
 The interface provides formatting options for structured answers
 Changes are tracked with version history
+[link manual](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Documentation+of+training+methods)
 
 Estimated Time: 4 hours.
-[link manual](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Documentation+of+training+methods)
+
 
 
 ### 2.As an IT administrator, I want to update the chatbot's knowledge base with verified answers, so that the system has access to the most current information.
@@ -22,8 +23,8 @@ The knowledge base accepts formatted content from authorized contributors
 Updates are timestamped and tracked
 The system confirms successful integration of new content
 Old versions of answers are archived but retrievable
-
 [link update](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=improve+the+accuracy+of+AI)
+
 Estimated Time: 3 hours.
 
 
