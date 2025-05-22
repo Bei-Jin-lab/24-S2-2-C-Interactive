@@ -35,7 +35,6 @@ The system clearly distinguishes between verified and auto-generated responses
 Manually verified answers take precedence when available
 The selection algorithm considers the recency of updates
 Configuration options allow fine-tuning of priority rules
-
 [link priority](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Creating+a+Priority-Based+data+Document)
 
 Estimated Time: 6 hours.
@@ -48,8 +47,8 @@ A simple flag/report button appears with each chatbot response
 Users can provide specific feedback about inaccuracies
 Flagged responses are collected in a dashboard for review
 Administrators receive notifications of frequently flagged content
-
 [link flag](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Client+Testing+and+Feedback+Collection)
+
 Estimated Time: 5 hours.
 
 
@@ -65,9 +64,7 @@ The CBE website provides a user-friendly article editor
 Content can be organized into logical sections with clear headings
 Screenshots and visual aids can be embedded within the guide
 The system supports save drafts and preview functionality
-
 [link Guide](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Guidebook+Scraping+from+Canvas)
-
 
 Estimated Time: 8 hours.
 
@@ -81,8 +78,8 @@ The system allows selection of multiple categories for each article
 Published content immediately appears in all selected categories
 Category assignments can be edited after publication
 The system prevents duplicate displays within the same category
-
 [link category](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Classification+function+display)
+
 Estimated Time: 2 hours.
 
 
@@ -95,8 +92,8 @@ Navigation menus are reorganized based on user journey analysis
 Search functionality is prominently featured on all pages
 Related content suggestions appear with each article
 Mobile responsiveness ensures usability across devices
-
 [link interface](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=The+format+and+color+scheme)
+
 Estimated Time: 10 hours.
 
 
@@ -109,7 +106,6 @@ Instructions are organized by common task categories
 Visual guidance supplements text instructions
 Materials are accessible without complicated navigation
 Content is printable for offline reference
-
 [link instruction](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Guide+to+uploading+articles)
 
 Estimated Time: 3 hours.
@@ -142,7 +138,6 @@ Criteria:
 – Navigation remains accessible and functional on mobile
 – Touch interactions are optimized for smaller screens
 – Content maintains readability and usability on all devices
-
 [link mobile](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=mobile)
 
 Estimated Time: 4 hours
@@ -154,6 +149,7 @@ Criteria:
 – Reviewers can compare current and previous versions
 – Editors are notified of significant updates or changes
 – Rollback options are available for error correction
+[link change](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Changes+to+the)
 
 Estimated Time: 5 hours
 
@@ -164,6 +160,7 @@ Criteria:
 – Search results are accurate and ranked by relevance
 – Results show article title, summary, and category
 – Search supports filtering by category or date
+[link change](https://github.com/users/Bei-Jin-lab/projects/17/views/1?filterQuery=Changes+to+the)
 
 Estimated Time: 3 hours
 
